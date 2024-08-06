@@ -15,11 +15,11 @@ The code is divided into two parts:
 ### Installation
 Download the project
 
-`git clone https://github.com/Junscuzzy/ts-blockchain-api`
+`git clone https://github.com/Julien712-dev/ts-api-for-blockchain.git`
 
 Enter the project
 
-`cd ts-blockchain-api`
+`cd blockchain-api`
 
 Install the dependencies
 
